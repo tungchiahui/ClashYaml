@@ -7,7 +7,7 @@
 proxy-providers:
 
   Mitce:
-    url: "https://app.mitce.net/?sid=102849&token=7a37699f1309"
+    url: "订阅链接"
     type: http
     interval: 86400
     health-check:
