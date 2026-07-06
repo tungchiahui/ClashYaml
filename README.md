@@ -1,6 +1,6 @@
-[中文](README-zh_CN.md) | English
-
 # Clash Fallback Configuration
+
+[中文](README-zh_CN.md) | English
 
 This repository provides a rule-based Clash configuration with regional node groups, automatic latency tests, and fallback groups. It is intended for clients using the **Mihomo (Clash Meta) kernel**.
 

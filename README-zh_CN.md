@@ -1,6 +1,6 @@
-中文 | [English](README.md)
-
 # Clash Fallback 配置说明
+
+中文 | [English](README.md)
 
 这是一个基于规则分流的 Clash 配置，内置地区节点组、自动延迟测试和故障转移组，适用于使用 **Mihomo（Clash Meta）内核**的客户端。
 
