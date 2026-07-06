@@ -6,7 +6,7 @@
 
 proxy-providers:
 
-  Mitce:
+  MyProvider:
     url: "订阅链接"
     type: http
     interval: 86400
